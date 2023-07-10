@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Akara',
+  title: 'ZF',
   tagline: 'Never Knows Best',
   url: 'https://ZF_KnowledgeWarehouse.github.io/',
   baseUrl: '/blog/', 
@@ -14,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'SunshinestyleCommunity', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
-  deploymentBranch: 'version01',
+  projectName: 'ZF_KnowledgeWarehouse', // Usually your repo name.
+  deploymentBranch: 'master',
   plugins: ['@docusaurus/theme-live-codeblock'],
   i18n: {
     defaultLocale: 'zh-Hans',
