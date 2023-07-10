@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ZF',
   tagline: 'Never Knows Best',
-  url: 'https://ZF_KnowledgeWarehouse.github.io/',
-  baseUrl: '/blog/', 
+  url: 'https://sunshinestylecommunity.github.io/',
+  baseUrl: '/ZF_KnowledgeWarehouse/', 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
